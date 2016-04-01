@@ -1,0 +1,14 @@
+{
+	"Name": "Boddenberg",
+	"Vorname": "Andre",
+	"Alias": "blobb",
+	"Alter": "26",
+	"Mail": "andre.boddenberg@gmx.de",
+	"Adresse": [
+		{"Straﬂe": "Rheinsberger Straﬂe"},
+		{"Nummer": "28"},  
+		{"Ort": "Berlin"},
+		{"PLZ": "10435"}
+	]
+}
+		

@@ -1,0 +1,109 @@
+{
+    "folder": {
+        "sub": 2,
+        "size": 25507703,
+        "date": 1359388953,
+        "files": 16,
+        "name": "root",
+        
+        "folder": [
+            {
+                "sub": 0,
+                "size": 0,
+                "date": 1354891890,
+                "flags": 4,
+                "files": 0,
+                "name": "Mail"
+            },
+            {
+                "sub": 0,
+                "size": 0,
+                "date": 1357729759,
+                "files": 0,
+                "name": "TestFolder"
+            }
+        ],
+        "file": [
+            {
+                "size": 18128885,
+                "date": 1357827607,
+                "name": "20130110_151449.txt"
+            },
+            {
+                "size": 2493973,
+                "date": 1355402246,
+                "name": "0063.pdf"
+            },
+            {
+                "size": 49,
+                "date": 1355306384,
+                "name": "_zackzack.txt"
+            },
+            {
+                "size": 2499,
+                "date": 1354893159,
+                "name": "build.xml"
+            },
+            {
+                "size": 18128885,
+                "date": 1357827607,
+                "name": "sometextfile.txt"
+            },
+            {
+                "size": 2493973,
+                "date": 1355402246,
+                "name": "somepdf.pdf"
+            },
+            {
+                "size": 49,
+                "date": 1355306384,
+                "name": "anothertextfile.txt"
+            },
+            {
+                "size": 2499,
+                "date": 1354893159,
+                "name": "aworddocument.doc"
+            },
+            {
+                "size": 18128885,
+                "date": 1357827607,
+                "name": "readme.txt"
+            },
+            {
+                "size": 2493973,
+                "date": 1355402246,
+                "name": "printme.pdf"
+            },
+            {
+                "size": 49,
+                "date": 1355306384,
+                "name": "deleteme.txt"
+            },
+            {
+                "size": 2499,
+                "date": 1354893159,
+                "name": "executeme.exe"
+            },
+            {
+                "size": 18128885,
+                "date": 1357827607,
+                "name": "file1.txt"
+            },
+            {
+                "size": 2493973,
+                "date": 1355402246,
+                "name": "file2.pdf"
+            },
+            {
+                "size": 49,
+                "date": 1355306384,
+                "name": "file3.txt"
+            },
+            {
+                "size": 2499,
+                "date": 1354893159,
+                "name": "file4.xml"
+            }
+        ]
+    }
+}
