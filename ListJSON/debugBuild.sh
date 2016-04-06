@@ -9,7 +9,7 @@
 # (PLEASE DO NOT PROVIDE THE RELEASE KEYSTORE HERE)
 #
 # @author: andre@blobb.me
-# @date: 20.5.2015
+# @date: 20.12.2015
 #
 # Please define the following parameters...
 #
